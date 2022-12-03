@@ -1,1 +1,2 @@
-This ia a 1st folder of my file.
+This is a that.txt file.
+This is the 1st folder of my file.
